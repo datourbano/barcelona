@@ -30,7 +30,7 @@
   >|NOM_DISTRICTE|Nombre de distrito
   >|TELEFON|Teléfono
 
-* Tratamiento:
+* ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/herramienta_18.png) Tratamiento:
   
   Los datos originales se encuentran en formato CSV, con indicación de su posición mediante dos pares de coordenadas X,Y en los sistemas geográficos de referencia *UTM European 1950 31N* y *UTM ETRS89 31N*.
 
