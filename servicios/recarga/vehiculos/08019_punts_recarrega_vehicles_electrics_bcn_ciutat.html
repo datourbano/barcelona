@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head lang="es">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>Puntos de Recarga de vehículos eléctricos - Barcelona (España)</title>
+    <style>
+      body, html{
+        height: 100%;
+        border: 0;
+        padding: 0;
+        margin: 0;
+      }
+      #map{
+        width: 100%;
+        height: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+  </body>
+  <script>
+    var iderioja_config = {
+      "init_lat": 41.38,
+      "init_lng": 2.17,
+      "capa_geojson": [
+        {"url": "https://raw.githubusercontent.com/datourbano/barcelona/master/servicios/recarga/vehiculos/08019_punts_recarrega_vehicles_electrics_bcn_ciutat.geojson",
+         "icono": {
+            "iconUrl": "https://raw.githubusercontent.com/datourbano/simbologia/master/servicios/recarga/vehiculos/punto_recarga_electrica_0.png",
+            "iconSize": [26,30],
+            "iconAnchor": [13,30]
+         }
+        }
+      ],
+      "cluster_markers": 1,
+      "localizacion": 1,
+      "popup": 2,
+      "fondo_base": "carto-light_all"
+    }
+  </script>
+  <script src="https://apigeo.larioja.org/v1/iderioja.js"></script>
+</html>
