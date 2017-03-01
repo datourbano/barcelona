@@ -8,7 +8,7 @@
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/mapa_18.png) Visualización: [Puntos de Recarga de vehículos eléctricos - Barcelona (España)](https://datourbano.github.io/barcelona/servicios/recarga/vehiculos/08019_punts_recarrega_vehicles_electrics_bcn_ciutat)
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/notas_18.png) Notas:
 
-  (Portal de datos abiertos del Ayuntamiento de Madrid)
+  (Servicio de datos abiertos del Ayuntamiento de Barcelona)
   >"Geolocalización de estaciones de recarga de vehiculo eléctrico. Mantenimiento asegurado sólo de los puntos de recarga de propiedad pública. No se proporciona información referente al estado del servicio."
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/herramienta_18.png) Tratamiento:
 
