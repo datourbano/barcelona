@@ -16,7 +16,7 @@
 
   El fichero cuenta con dos atributos para la georreferenciación de las instalaciones: *"COORDENADA_X"* y *"COORDENADA_Y"*, que almacenan el valor de las coordenadas geográficas WGS84 del punto, si bien se observa que el orden está invertido, ya que se registra en el atributo *COORDENADA_X* el valor de la *latitud* y en el atributo *COORDENADA_Y* el valor de la *longitud* (1).
 
-  Se ha convertido el archivo shapefile a un fichero GeoJSON, manteniendo la estructura de datos original y su contenido.
+  Se ha convertido el archivo CSV a un fichero GeoJSON, manteniendo la estructura de datos original y su contenido.
 
   Los datos finales se ofrecen en coordenadas geográficas OGC CRS:84 (EPSG:4326 lon-lat).
 
