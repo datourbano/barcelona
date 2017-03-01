@@ -9,4 +9,4 @@
 ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/twitter_18.png "@datourb") [@datourb](http:twitter.com/datourb)  
 [Licencia: Creative Commons CC BY 4.0](https://github.com/datourbano/logrono/blob/master/LICENCIA.ES.md)
 <br /><br />
-\*Nota: *Este repositorio es una iniciativa personal promovida por [@gonzalo_lpgc](http:twitter.com/gonzalo_lpgc). En ningún caso debe ser confundido con una fuente de datos oficial*.
+\*Nota: *Este repositorio no una fuente de datos oficial*.
