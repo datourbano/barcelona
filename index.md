@@ -3,6 +3,9 @@
   - #### **BICI**
     - **Servicios**
       1. [Estaciones de Bicing (Mecánicas y electricas)](https://github.com/datourbano/barcelona/blob/master/movilidad/bici/servicios/08019_stations.md)
+    - **Vialidad**
+      1. [Puntos de anclaje de bicicletas](https://github.com/datourbano/barcelona/blob/master/movilidad/bici/vialidad/08019_punts_ancoratge_bicicletes.md)
+
 * ### **SERVICIOS**
   - #### **COMUNICACIONES**
     - **Wifi**
