@@ -13,7 +13,7 @@ OTRAS FUENTES DE INFORMACIÓN
 
 * 
 
-
 <br />
+
 ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/twitter_18.png "@datourb") [@datourb](http:twitter.com/datourb)  
 [Licencia: Creative Commons CC BY 4.0](https://github.com/datourbano/logrono/blob/master/LICENCIA.ES.md)
