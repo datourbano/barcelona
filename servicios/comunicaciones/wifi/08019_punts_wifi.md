@@ -1,11 +1,11 @@
-### [datourbano](https://github.com/datourbano): Puntos de acceso Wifi - Barcelona (España)
+### [datourbano](https://github.com/datourbano): Puntos de acceso Wifi - Barcelona
 
-* ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/ubicacion_18.png) Ciudad: [Barcelona (España)](https://datourbano.github.io/barcelona)
+* ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/ubicacion_18.png) Ciudad: [Barcelona](https://datourbano.github.io/barcelona)
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/origen_18.png) Origen: [Servicio de datos abiertos del Ayuntamiento de Barcelona (OpenDataBCN)](http://opendata-ajuntament.barcelona.cat/data/es/dataset/punts-wifi)
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/calendario_18.png) Fecha: 16-02-2017
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/carpeta_18.png) Repositorio: https://github.com/datourbano/barcelona/tree/master/servicios/comunicaciones/wifi
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/enlace_18.png) LinkedData: [28079_wifi_municipal.geojson](https://raw.githubusercontent.com/datourbano/barcelona/master/servicios/comunicaciones/wifi/08019_punts_wifi.geojson)
-* ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/mapa_18.png) Visualización: [Puntos de acceso Wifi - Barcelona (España)](https://datourbano.github.io/barcelona/servicios/comunicaciones/wifi/08019_punts_wifi)
+* ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/mapa_18.png) Visualización: [Puntos de acceso Wifi - Barcelona](https://datourbano.github.io/barcelona/servicios/comunicaciones/wifi/08019_punts_wifi)
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/notas_18.png) Notas:
   
   (Servicio de datos abiertos del Ayuntamiento de Barcelona (OpenDataBCN)

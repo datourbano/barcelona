@@ -1,11 +1,11 @@
-### [datourbano](https://github.com/datourbano): Puntos de anclaje de bicicletas - Barcelona (España)
+### [datourbano](https://github.com/datourbano): Puntos de anclaje de bicicletas - Barcelona
 
-* ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/ubicacion_18.png) Ciudad: [Barcelona (España)](https://datourbano.github.io/barcelona)
+* ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/ubicacion_18.png) Ciudad: [Barcelona](https://datourbano.github.io/barcelona)
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/origen_18.png) Origen: [Servicio de datos abiertos del Ayuntamiento de Barcelona (OpenDataBCN)](http://opendata-ajuntament.barcelona.cat/data/es/dataset/punts-ancoratge-bicicletes)
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/calendario_18.png) Fecha: 05-03-2017
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/carpeta_18.png) Repositorio: https://github.com/datourbano/barcelona/tree/master/movilidad/bici/vialidad
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/enlace_18.png) LinkedData: [08019_punts_ancoratge_bicicletes.geojson](https://raw.githubusercontent.com/datourbano/barcelona/master/movilidad/bici/vialidad/08019_punts_ancoratge_bicicletes.geojson)
-* ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/mapa_18.png) Visualización: [Puntos de anclaje de bicicletas - Barcelona (España)](https://datourbano.github.io/barcelona/movilidad/bici/vialidad/08019_punts_ancoratge_bicicletes)
+* ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/mapa_18.png) Visualización: [Puntos de anclaje de bicicletas - Barcelona](https://datourbano.github.io/barcelona/movilidad/bici/vialidad/08019_punts_ancoratge_bicicletes)
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/notas_18.png) Notas:
 
   (Servicio de datos abiertos del Ayuntamiento de Barcelona)

@@ -1,4 +1,4 @@
-## DATO URBANO: Barcelona (España)
+## DATO URBANO: Barcelona
 ---
 
 **_Este repositorio no es una fuente de datos oficial_**.
