@@ -1,4 +1,4 @@
-# DATO URBANO: Barcelona (España)
+# DATO URBANO: Barcelona
 * ### **MOVILIDAD**
   - #### **BICI**
     - **Servicios**
@@ -17,7 +17,7 @@
 
 <br />
 ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/twitter_18.png "@datourb") [@datourb](http:twitter.com/datourb)  
-[Licencia: Creative Commons CC BY 4.0](https://github.com/datourbano/logrono/blob/master/LICENCIA.ES.md)
+[Licencia: Creative Commons CC BY 4.0](https://github.com/datourbano/barcelona/blob/master/LICENCIA.ES.md)
 <br /><br />
 
 \*Nota:
