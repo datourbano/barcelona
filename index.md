@@ -2,11 +2,15 @@
 * ### **MOVILIDAD**
   - #### **BICI**
     - **Servicios**
-      1. [Estaciones de Bicing (Mecánicas y electricas)](https://github.com/datourbano/barcelona/blob/master/movilidad/bici/servicios/08019_stations.md)
+      1. [Estaciones de Bicing (mecánicas y eléctricas)](https://github.com/datourbano/barcelona/blob/master/movilidad/bici/servicios/08019_stations.md)
     - **Vialidad**
       1. [Puntos de anclaje de bicicletas](https://github.com/datourbano/barcelona/blob/master/movilidad/bici/vialidad/08019_punts_ancoratge_bicicletes.md)
 
 * ### **SERVICIOS**
+  - #### **AGUA**
+    - **Fuentes**
+      1. [Fuentes públicas de beber](https://github.com/datourbano/barcelona/blob/master/servicios/agua/fuentes/08019_fonts.md)
+
   - #### **COMUNICACIONES**
     - **Wifi**
       1. [Puntos de acceso Wifi](https://github.com/datourbano/barcelona/blob/master/servicios/comunicaciones/wifi/08019_punts_wifi.md)

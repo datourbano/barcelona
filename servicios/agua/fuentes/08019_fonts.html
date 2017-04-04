@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head lang="es">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>Fuentes públicas de beber - Barcelona</title>
+    <style>
+      body, html{
+        height: 100%;
+        border: 0;
+        padding: 0;
+        margin: 0;
+      }
+      #map{
+        width: 100%;
+        height: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+  </body>
+  <script>
+    var iderioja_config = {
+      "init_lat": 41.3825,
+      "init_lng": 2.1772,
+      "capa_geojson": [
+        {"url": "https://raw.githubusercontent.com/datourbano/barcelona/master/servicios/agua/fuentes/08019_fonts.geojson",
+         "icono": {
+            "iconUrl": "https://raw.githubusercontent.com/datourbano/simbologia/master/servicios/agua/fuentes/fuente_agua_potable_0.png",
+            "iconSize": [26,30],
+            "iconAnchor": [13,30]
+         }
+        }
+      ],
+      "cluster_markers": 1,
+      "localizacion": 1,
+      "popup": 2,
+      "fondo_base": "carto-light_all"
+    }
+  </script>
+  <script src="https://apigeo.larioja.org/v1/iderioja.js"></script>
+</html>
