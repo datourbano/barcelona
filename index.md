@@ -5,7 +5,7 @@
       1. [Estaciones de Bicing (mecánicas y eléctricas)](https://github.com/datourbano/barcelona/blob/master/movilidad/bici/servicios/08019_stations.md)
     - **Vialidad**
       1. [Puntos de anclaje de bicicletas](https://github.com/datourbano/barcelona/blob/master/movilidad/bici/vialidad/08019_punts_ancoratge_bicicletes.md)
-      2. [Carril bici](https://github.com/datourbano/barcelona/blob/master/movilidad/bici/vialidad/0819_carril_bici.md)
+      2. [Carril bici](https://github.com/datourbano/barcelona/blob/master/movilidad/bici/vialidad/08019_carril_bici.md)
 
 * ### **SERVICIOS**
   - #### **AGUA**
