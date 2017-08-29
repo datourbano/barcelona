@@ -1,4 +1,4 @@
-### [datourbano](https://github.com/datourbano): Puntos de anclaje de bicicletas - Barcelona
+### [datourbano](https://github.com/datourbano): Punts d'ancoratge de bicicletes / Puntos de anclaje de bicicletas - Barcelona
 
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/ubicacion_18.png) Ciudad: [Barcelona](https://datourbano.github.io/barcelona)
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/origen_18.png) Origen: [Servicio de datos abiertos del Ayuntamiento de Barcelona (OpenDataBCN)](http://opendata-ajuntament.barcelona.cat/data/es/dataset/punts-ancoratge-bicicletes)
@@ -9,7 +9,7 @@
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/notas_18.png) Notas:
 
   (Servicio de datos abiertos del Ayuntamiento de Barcelona)
-  >"Puntos de anclaje de bicicletas de la ciudad de Barcelona."
+  >Puntos de anclaje de bicicletas de la ciudad de Barcelona.
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/herramienta_18.png) Tratamiento:
 
   Los datos originales se han descargado en un formato XML que internamente incluye información específica de *Google Maps*. 

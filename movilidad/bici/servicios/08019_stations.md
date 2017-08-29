@@ -1,4 +1,4 @@
-### [datourbano](https://github.com/datourbano): Estaciones de Bicing (mecánicas y eléctricas) - Barcelona
+### [datourbano](https://github.com/datourbano): Estacions de Bicing / Estaciones de Bicing - Barcelona
 
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/ubicacion_18.png) Ciudad: [Barcelona](https://datourbano.github.io/barcelona)
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/origen_18.png) Origen: [Servicio de datos abiertos del Ayuntamiento de Barcelona (OpenDataBCN)](http://opendata-ajuntament.barcelona.cat/data/es/dataset/bicing)
@@ -9,7 +9,7 @@
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/notas_18.png) Notas:
 
   (Servicio de datos abiertos del Ayuntamiento de Barcelona)
-  >"Ubicación (coordenadas lat-long) de las estaciones de bicing (transporte en bicicleta). Incluye la dirección (calle y número), listado de las estaciones más próximas, estado de la estación, número de aparcamientos y número de bicis, mecánicas y electricas, disponibles."
+  >Ubicación (coordenadas lat-long) de las estaciones de bicing (transporte en bicicleta). Incluye la dirección (calle y número), listado de las estaciones más próximas, estado de la estación, número de aparcamientos y número de bicis, mecánicas y electricas, disponibles.
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/herramienta_18.png) Tratamiento:
 
   Los datos originales se han descargado en formato JSON. 

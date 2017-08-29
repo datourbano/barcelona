@@ -1,4 +1,4 @@
-### [datourbano](https://github.com/datourbano): Carrils Bici/Carriles Bici - Barcelona
+### [datourbano](https://github.com/datourbano): Carrils Bici / Carriles Bici - Barcelona
 
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/ubicacion_18.png) Ciudad: [Barcelona](https://datourbano.github.io/barcelona)
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/origen_18.png) Origen: [Servicio de datos abiertos del Ayuntamiento de Barcelona (OpenDataBCN)](http://opendata-ajuntament.barcelona.cat/data/es/dataset/carril-bici)

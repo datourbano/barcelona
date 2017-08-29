@@ -1,4 +1,4 @@
-### [datourbano](https://github.com/datourbano): Puntos de Recarga de vehículos eléctricos - Barcelona
+### [datourbano](https://github.com/datourbano): Punts de recàrrega de vehicles elèctrics / Puntos de Recarga de vehículos eléctricos - Barcelona
 
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/ubicacion_18.png) Ciudad: [Barcelona](https://datourbano.github.io/barcelona)
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/origen_18.png) Origen: [Servicio de datos abiertos del Ayuntamiento de Barcelona (OpenDataBCN)](http://opendata-ajuntament.barcelona.cat/data/es/dataset/punts-recarrega-vehicles-electrics)
@@ -9,7 +9,7 @@
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/notas_18.png) Notas:
 
   (Servicio de datos abiertos del Ayuntamiento de Barcelona)
-  >"Geolocalización de estaciones de recarga de vehiculo eléctrico. Mantenimiento asegurado sólo de los puntos de recarga de propiedad pública. No se proporciona información referente al estado del servicio."
+  >Geolocalización de estaciones de recarga de vehiculo eléctrico. Mantenimiento asegurado sólo de los puntos de recarga de propiedad pública. No se proporciona información referente al estado del servicio.
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/herramienta_18.png) Tratamiento:
 
   Los datos originales se encuentran en formato CSV.
