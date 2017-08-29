@@ -1,17 +1,16 @@
-### [datourbano](https://github.com/datourbano): Carrils Bici/Carriles Bici - Barcelona
+### [datourbano](https://github.com/datourbano): Zonas 30-Carrers/Zonas 30-Calles - Barcelona
 
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/ubicacion_18.png) Ciudad: [Barcelona](https://datourbano.github.io/barcelona)
-* ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/origen_18.png) Origen: [Servicio de datos abiertos del Ayuntamiento de Barcelona (OpenDataBCN)](http://opendata-ajuntament.barcelona.cat/data/es/dataset/carril-bici)
-* ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/calendario_18.png) Fecha: 27-08-2017
+* ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/origen_18.png) Origen: [Servicio de datos abiertos del Ayuntamiento de Barcelona (OpenDataBCN)](http://opendata-ajuntament.barcelona.cat/data/es/dataset/zones30-carrers)
+* ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/calendario_18.png) Fecha: 28-08-2017
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/carpeta_18.png) Repositorio: https://github.com/datourbano/barcelona/tree/master/movilidad/bici/vialidad
-* ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/enlace_18.png) LinkedData: [08019_carril_bici.geojson](https://raw.githubusercontent.com/datourbano/barcelona/master/movilidad/bici/vialidad/08019_carril_bici.geojson)
-* ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/mapa_18.png) Visualización: [Carriles bici - Barcelona](https://datourbano.github.io/barcelona/movilidad/bici/vialidad/08019_carril_bici)
+* ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/enlace_18.png) LinkedData: [08019_zones30_carrers.geojson](https://raw.githubusercontent.com/datourbano/barcelona/master/movilidad/bici/vialidad/08019_zones30_carrers.geojson)
+* ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/mapa_18.png) Visualización: [Zonas 30 Calles - Barcelona](https://datourbano.github.io/barcelona/movilidad/bici/vialidad/08019_zones30_carrers)
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/notas_18.png) Notas:
 
   (Servicio de datos abiertos del Ayuntamiento de Barcelona)
-  >Carriles Bici de la ciudad de Barcelona.
-  >Red de carriles Bici existentes en la ciudad de Barcelona.
-  >La información publicada no especifica la direccionalidad de los carriles.
+  >Zonas 30 en la ciudad de Barcelona.
+  >A la calle 30 también las llamamos calle bici.
 
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/herramienta_18.png) Tratamiento:
 

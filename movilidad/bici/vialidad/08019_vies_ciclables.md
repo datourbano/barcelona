@@ -1,17 +1,16 @@
-### [datourbano](https://github.com/datourbano): Carrils Bici/Carriles Bici - Barcelona
+### [datourbano](https://github.com/datourbano): Vies ciclables/Vías ciclables - Barcelona
 
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/ubicacion_18.png) Ciudad: [Barcelona](https://datourbano.github.io/barcelona)
-* ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/origen_18.png) Origen: [Servicio de datos abiertos del Ayuntamiento de Barcelona (OpenDataBCN)](http://opendata-ajuntament.barcelona.cat/data/es/dataset/carril-bici)
-* ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/calendario_18.png) Fecha: 27-08-2017
+* ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/origen_18.png) Origen: [Servicio de datos abiertos del Ayuntamiento de Barcelona (OpenDataBCN)](http://opendata-ajuntament.barcelona.cat/data/es/dataset/vies-ciclables)
+* ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/calendario_18.png) Fecha: 28-08-2017
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/carpeta_18.png) Repositorio: https://github.com/datourbano/barcelona/tree/master/movilidad/bici/vialidad
-* ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/enlace_18.png) LinkedData: [08019_carril_bici.geojson](https://raw.githubusercontent.com/datourbano/barcelona/master/movilidad/bici/vialidad/08019_carril_bici.geojson)
-* ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/mapa_18.png) Visualización: [Carriles bici - Barcelona](https://datourbano.github.io/barcelona/movilidad/bici/vialidad/08019_carril_bici)
+* ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/enlace_18.png) LinkedData: [08019_vies_ciclables.geojson](https://raw.githubusercontent.com/datourbano/barcelona/master/movilidad/bici/vialidad/08019_vies_ciclables.geojson)
+* ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/mapa_18.png) Visualización: [Vías ciclables - Barcelona](https://datourbano.github.io/barcelona/movilidad/bici/vialidad/08019_vies_ciclables)
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/notas_18.png) Notas:
 
   (Servicio de datos abiertos del Ayuntamiento de Barcelona)
-  >Carriles Bici de la ciudad de Barcelona.
-  >Red de carriles Bici existentes en la ciudad de Barcelona.
-  >La información publicada no especifica la direccionalidad de los carriles.
+  >Vías Ciclables en la ciudad de Barcelona.
+  >Calles 30, 20, 10 o calles bici no incluidas en zonas 30.
 
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/herramienta_18.png) Tratamiento:
 
