@@ -1,23 +1,27 @@
 # DATO URBANO: Barcelona
-* ### **MOVILIDAD**
-  - #### **BICI**
-    - **Servicios**
-      1. [Estaciones de Bicing (mecánicas y eléctricas)](https://github.com/datourbano/barcelona/blob/master/movilidad/bici/servicios/08019_stations.md)
-    - **Vialidad**
-      1. [Puntos de anclaje de bicicletas](https://github.com/datourbano/barcelona/blob/master/movilidad/bici/vialidad/08019_punts_ancoratge_bicicletes.md)
-      2. [Carril bici](https://github.com/datourbano/barcelona/blob/master/movilidad/bici/vialidad/08019_carril_bici.md)
+* ### **MOBILITAT / MOVILIDAD**
+  - #### **BICI / BICI** ([mapa](https://datourbano.github.io/barcelona/movilidad/bici/08019_movilidad_bici))
+    - **Serveis / Servicios**
+      1. [Estacions de Bicing / Estaciones de Bicing](https://github.com/datourbano/barcelona/blob/master/movilidad/bici/servicios/08019_stations.md)
+    - **Vialitat  /Vialidad**
+      1. [Carrils Bici / Carriles Bici](https://github.com/datourbano/barcelona/blob/master/movilidad/bici/vialidad/08019_carril_bici.md)
+      2. [Punts d'ancoratge de bicicletes / Puntos de anclaje de bicicletas](https://github.com/datourbano/barcelona/blob/master/movilidad/bici/vialidad/08019_punts_ancoratge_bicicletes.md)
+      3. [Ronda Verda / Ronda Verde](https://github.com/datourbano/barcelona/blob/master/movilidad/bici/vialidad/08019_ronda_verda.md)
+      4. [Vies ciclables / Vías ciclables](https://github.com/datourbano/barcelona/blob/master/movilidad/bici/vialidad/08019_vies_ciclables.md)
+      5. [Zonas 30-Carrers / Zonas 30-Calles](https://github.com/datourbano/barcelona/blob/master/movilidad/bici/vialidad/08019_zones30_carrers.md)
 
-* ### **SERVICIOS**
-  - #### **AGUA**
-    - **Fuentes**
-      1. [Fuentes públicas de beber](https://github.com/datourbano/barcelona/blob/master/servicios/agua/fuentes/08019_fonts.md)
 
-  - #### **COMUNICACIONES**
-    - **Wifi**
-      1. [Puntos de acceso Wifi](https://github.com/datourbano/barcelona/blob/master/servicios/comunicaciones/wifi/08019_punts_wifi.md)
-  - #### **RECARGA**
-    - **Vehículos**
-      1. [Puntos de Recarga de vehículos eléctricos](https://github.com/datourbano/barcelona/blob/master/servicios/recarga/vehiculos/08019_punts_recarrega_vehicles_electrics_bcn_ciutat.md)
+* ### **SERVEIS / SERVICIOS**
+  - #### **AIGUA / AGUA**
+    - **Fonts / Fuentes**
+      1. [Fonts públiques de beure / Fuentes públicas de beber](https://github.com/datourbano/barcelona/blob/master/servicios/agua/fuentes/08019_fonts.md)
+
+  - #### **COMUNICACIONS / COMUNICACIONES**
+    - **Wifi / Wifi**
+      1. [Punts d’accés WiFi / Puntos de acceso Wifi](https://github.com/datourbano/barcelona/blob/master/servicios/comunicaciones/wifi/08019_punts_wifi.md)
+  - #### **RECÀRREGA / RECARGA**
+    - **Vehicles / Vehículos**
+      1. [Punts de recàrrega de vehicles elèctrics / Puntos de Recarga de vehículos eléctricos](https://github.com/datourbano/barcelona/blob/master/servicios/recarga/vehiculos/08019_punts_recarrega_vehicles_electrics_bcn_ciutat.md)
 
 
 <br />

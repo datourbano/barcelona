@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+  <head lang="es">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>Movilidad Bici - Barcelona</title>
+    <style>
+      body, html{
+        height: 100%;
+        border: 0;
+        padding: 0;
+        margin: 0;
+      }
+      #map{
+        width: 100%;
+        height: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+  </body>
+  <script>
+    var iderioja_config = {
+      "init_lat": 41.38,
+      "init_lng": 2.17,
+      "capa_geojson": [
+        {"url": "https://raw.githubusercontent.com/datourbano/barcelona/master/movilidad/bici/vialidad/08019_carril_bici.geojson",
+          "estilo": {
+            "color": "#cc0000",
+            "weight": 1.3,
+            "opacity": 1.0
+          }
+        },
+        {"url": "https://raw.githubusercontent.com/datourbano/barcelona/master/movilidad/bici/vialidad/08019_vies_ciclables.geojson",
+          "estilo": {
+            "color": "#660066",
+            "weight": 2.0,
+            "opacity": 0.5
+          }
+        },
+        {"url": "https://raw.githubusercontent.com/datourbano/barcelona/master/movilidad/bici/vialidad/08019_zones30_carrers.geojson",
+          "estilo": {
+            "color": "#003399",
+            "weight": 2.0,
+            "opacity": 0.5
+          }
+        },
+        {"url": "https://raw.githubusercontent.com/datourbano/barcelona/master/movilidad/bici/vialidad/08019_ronda_verda.geojson",
+          "estilo": {
+            "color": "#006600",
+            "weight": 2.0,
+            "opacity": 0.8
+          }
+        },
+        {"url": "https://raw.githubusercontent.com/datourbano/barcelona/master/movilidad/bici/vialidad/08019_punts_ancoratge_bicicletes.geojson",
+         "icono": {
+            "iconUrl": "https://raw.githubusercontent.com/datourbano/simbologia/master/movilidad/bici/vialidad/aparcabici_0.png",
+            "iconSize": [26,30],
+            "iconAnchor": [13,30]
+         }
+        },
+        {"url": "https://raw.githubusercontent.com/datourbano/barcelona/master/movilidad/bici/servicios/08019_stations.geojson",
+         "icono": {
+            "iconUrl": "https://raw.githubusercontent.com/datourbano/simbologia/master/movilidad/bici/servicios/base_bici_0.png",
+            "iconSize": [26,30],
+            "iconAnchor": [13,30]
+         }
+        }
+      ],
+      "cluster_markers": 1,
+      "localizacion": 1,
+      "popup": 2,
+      "fondo_base": "carto-light_all"
+    }
+  </script>
+  <script src="https://apigeo.larioja.org/v1/iderioja.js"></script>
+</html>
