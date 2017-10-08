@@ -25,5 +25,7 @@
   Primera versión: 03-03-2017
   Segunda versión: 07-10-2017
   >Se ha normalizado el contenido de los campos: `streetName` y `streetNumber`, homogeneizando el uso de mayúsculas/minúsculas y sustituyendo el valor original por el nombre oficial de la vía.
+  >
   >En la georreferenciación de los puntos se observa una exactitud geográfica variable.
+  >
   >Posible falta de correspondencia dirección-coordenadas en los registros con ID's 11 y 33
