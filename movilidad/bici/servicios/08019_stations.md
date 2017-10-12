@@ -9,7 +9,7 @@
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/notas_18.png) Notas:
 
   (Servicio de datos abiertos del Ayuntamiento de Barcelona)
-  >Ubicación (coordenadas lat-long) de las estaciones de bicing (transporte en bicicleta). Incluye la dirección (calle y número), listado de las estaciones más próximas, estado de la estación, número de aparcamientos y número de bicis, mecánicas y electricas, disponibles.
+  >Ubicación (coordenadas lat-long) de las estaciones de bicing (transporte en bicicleta). Incluye la dirección (calle y número), listado de las estaciones más próximas, estado de la estación, número de aparcamientos y número de bicis, mecánicas y eléctricas, disponibles.
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/herramienta_18.png) Tratamiento:
 
   Los datos originales se han descargado en formato JSON. 
@@ -22,10 +22,8 @@
 
   En la georreferenciación de los puntos se observa una exactitud geográfica variable.
   
-  Primera versión: 03-03-2017
-  Segunda versión: 07-10-2017
-  >Se ha normalizado el contenido de los campos: `streetName` y `streetNumber`, homogeneizando el uso de mayúsculas/minúsculas y sustituyendo el valor original por el nombre oficial de la vía.
-  >
-  >En la georreferenciación de los puntos se observa una exactitud geográfica variable.
-  >
-  >Posible falta de correspondencia dirección-coordenadas en los registros con ID's 11 y 33
+  Primera versión: 03-03-2017  
+  Segunda versión: 07-10-2017  
+  >Se ha normalizado el contenido de los campos: `streetName` y `streetNumber`, homogeneizando el uso de mayúsculas/minúsculas y sustituyendo el valor original por el nombre oficial de la vía.  
+  >En la georreferenciación de los puntos se observa una exactitud geográfica variable.  
+  >Posible falta de correspondencia dirección-coordenadas en los registros con ID's 11 y 33.  
