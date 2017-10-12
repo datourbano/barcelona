@@ -18,7 +18,7 @@
 
   Se ha convertido el archivo JSON a un fichero GeoJSON, manteniendo la estructura de datos original.
 
-  Los datos finales se ofrecen en coordenadas geográficas OGC CRS:84 (EPSG:4326 lon-lat), con una codificación de caracteres: UTF8
+  Los datos finales se ofrecen en formato GeoJSON, en el sistema de coordenadas geográficas OGC CRS:84 (EPSG:4326 lon-lat), con una precisión de seis decimales de grado y una codificación de caracteres UTF8.
 
   En la georreferenciación de los puntos se observa una exactitud geográfica variable.
   

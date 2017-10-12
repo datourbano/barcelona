@@ -21,7 +21,7 @@
 
   Los datos finales se ofrecen en formato GeoJSON, en el sistema de coordenadas geográficas OGC CRS:84 (EPSG:4326 lon-lat), con una precisión de seis decimales de grado y una codificación de caracteres UTF8, manteniéndose todo el conjunto de atributos asociados.
 
-  El trazado original de los elementos sigue una geometría muy esquemática, con escasa exactitud geográfica.
+  El trazado original de los elementos sigue una geometría muy esquemática, con una exactitud geográfica variable.
   
   Primera versión: 27-08-2017  
   Segunda versión: 12-10-2017  
