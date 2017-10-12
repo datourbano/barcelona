@@ -14,15 +14,19 @@
 
   Los datos originales se han descargado en un formato XML que internamente incluye información específica de *Google Maps*. 
 
-  La tabla que se ofrece en el fichero, presenta una disrupción en el número 897, al incorporar un registro *fantasma* que duplica, sin datos de coordenadas, el punto ubicado en C Ramon Trias Fargas 24, lo que puede suponer una dificultad para el tratamiento automatizado de los datos.
-
-  Se han completado los atributos los relativos a *urls* con la cadena del dominio, con el fin de poderlos reutilizar como enlaces directos.
+    Se han completado los atributos los relativos a *urls* con la cadena del dominio, con el fin de poderlos reutilizar como enlaces directos.
 
   Se ha convertido el archivo XML a un fichero GeoJSON, intentando conservar al máximo la estructura de datos original y su contenido.
 
   Los datos finales se ofrecen en formato GeoJSON, en el sistema de coordenadas geográficas OGC CRS:84 (EPSG:4326 lon-lat), con una precisión de seis decimales de grado y una codificación de caracteres UTF8, manteniéndose todo el conjunto de atributos asociados.
 
   Primera versión: 05-03-2017  
+  >La tabla que se ofrece en el fichero, presenta una disrupción en el número 897, al incorporar un registro *fantasma* que duplica, sin datos de coordenadas, el punto ubicado en C Ramon Trias Fargas 24, lo que puede suponer una dificultad para el tratamiento automatizado de los datos.  
+  >Se han eliminado atributos que ofrecen información redundante.
+
   Segunda versión: 12-10-2017  
-  >Se ha estandarizado la precisión geométrica expresando las coordenadas con seis decimales de grado.  
+  >Se ha estandarizado la precisión geométrica, expresando las coordenadas con seis decimales de grado. 
+  >Importante incremento del número de puntos, que en muchos casos se ubican junto a puntos existentes en la versión anterior.  
+  >En todos los puntos se aprecia una modificación de posición respecto a los puntos de la versión anterior, siendo significativa en algunos casos.  
+  >Se conserva el conjunto completo de atributos del fichero origen.  
 
