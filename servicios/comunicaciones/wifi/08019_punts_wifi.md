@@ -32,10 +32,18 @@
 
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/herramienta_18.png) Tratamiento:
   
-  Los datos originales se encuentran en formato CSV, con indicación de su posición mediante dos pares de coordenadas X,Y en los sistemas geográficos de referencia *UTM European 1950 31N* y *UTM ETRS89 31N*.
+  Los datos originales se encuentran en formato CSV, con indicación de su posición mediante tres pares de coordenadas X,Y en los sistemas geográficos de referencia *UTM European 1950 31N*,*UTM ETRS89 31N* y *Coordenadas geográficas*.
 
-  Se han extraído los elementos del fichero CSV, almacenándose todos ellos en un fichero GeoJSON, manteniendo su estructura original (no coincide con lo indicado en el OpenData) y contenido.
-
-  Los datos finales se ofrecen en coordenadas geográficas OGC CRS:84 (EPSG:4326 lon-lat).
+  Se han extraído los elementos del fichero CSV, almacenándose todos ellos en un fichero GeoJSON, manteniendo su estructura original y contenido.
 
   Se ha realizado un muestreo aleatorio de la precisión y exactitud geográfica, no habiéndose detectado problemas de posicionamiento.
+
+  Los datos finales se ofrecen en formato GeoJSON, en el sistema de coordenadas geográficas OGC CRS:84 (EPSG:4326 lon-lat), con una precisión de seis decimales de grado y una codificación de caracteres UTF8.
+  
+  Primera versión: 03-04-2017  
+  > 587 puntos.  
+  > La estructura de atributos no coincide con lo informado en el OpenData.  
+
+  Segunda versión: 14-10-2017  
+  > 593 puntos.  
+  > La estructura de atributos es acorde con lo informado en el OpenData.    
