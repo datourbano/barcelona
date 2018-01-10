@@ -47,5 +47,5 @@
   Segunda versión: 14-10-2017  
   > 593 puntos.  
   > La estructura de atributos es ahora acorde con lo informado en el OpenData.  
-  >Se ha estandarizado la precisión geométrica expresando las coordenadas con seis decimales de grado.
-  >Corregida una errata en el dato de latitud (falta el punto decimal) del registro de c/La rambla, 18   
+  >Se ha estandarizado la precisión geométrica expresando las coordenadas con seis decimales de grado.  
+  >Corregida una errata en el dato de latitud (falta el punto decimal) del registro de c/La rambla, 18  
